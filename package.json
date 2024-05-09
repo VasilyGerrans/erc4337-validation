@@ -36,7 +36,8 @@
     "CHANGELOG.md",
     "package.json",
     "foundry.toml",
-    "remappings.txt"
+    "remappings.txt",
+    ".npmrc"
   ],
   "keywords": [
     "foundry",
